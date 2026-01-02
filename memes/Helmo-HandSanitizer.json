@@ -1,6 +1,8 @@
 {
   "top": "When you have a cut on your hand",
   "bottom": "and you use hand sanitizer",
+  "uploadedImageBase64": "",
+  "previewBase64": "",
   "baseImage": "Hellmo.gif",
   "timestamp": 1767302973999
 }
